@@ -1,11 +1,23 @@
 # Readme:
-## About the project?
+
+<a id="content"></a>
+#### Content:  
+- [About](#about)
+- [How to use](#how-to-use)
+- [Online version](#heroku)
+- [Inside structure](#structure)
+- [Recommended parameters](#requires)
+- [Configure DataBase](#configureDB)
+
+<a id="about"></a>
+## About the project:
 This is my application, built on the architectural style of programming RESTful application (API).
-It doesn't have a pretty design, but works as a resource.
+So it works as a resource.
 In it, I used fairly modern and popular frameworks like Hibernate and Spring (Core + MVC + Security). 
 I also once again practiced creating an application from scratch following the SOLID principle. 
 Improved my knowledge of Java Core.
 
+<a id="how-to-use"></a>
 ## How to use?
 You are given the following endpoints and example to use:
 
@@ -28,6 +40,7 @@ GET | /shopping-carts/by-user | user | (no) | (no body)
 GET | /users/by-email | admin | ```?email={email}``` | (no body)
 
 
+<a id="heroku"></a>
 ## Online version (deployment on Heroku):
 1. To use the online version of the application, you can follow the [link](https://cinema-app-orlov.herokuapp.com/)
 2. For testing, you can use the admin account with the next credentials: 
@@ -40,6 +53,8 @@ GET | /users/by-email | admin | ```?email={email}``` | (no body)
    - use prefix of URL - my endpoint with correct HTTP method
 4. For details see my Controllers in the code (serhii/orlov/spring/controller) and use this as documentation
 
+
+<a id="structure"></a>
 ## Inside structure of project and DataBase:
 This project - emulation of Cinema shop service. if you use my application for a cinema, 
 you will get a lot of benefits: simple speedy code, no unnecessary dependencies, security, maintenance and development. 
@@ -47,38 +62,8 @@ you will get a lot of benefits: simple speedy code, no unnecessary dependencies,
 The API has the next structure:
 ![CinemaAppStructure.png](CinemaAppStructure.png)
 
-Examples of code:
-```java
-package serhii.orlov.spring.controller;
 
-import javax.validation.Valid;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
-import serhii.orlov.spring.dto.request.UserRequestDto;
-import serhii.orlov.spring.dto.response.UserResponseDto;
-import serhii.orlov.spring.model.User;
-import serhii.orlov.spring.service.AuthenticationService;
-import serhii.orlov.spring.service.mapper.UserMapper;
-
-@RestController
-public class AuthenticationController {
-    private final AuthenticationService authService;
-    private final UserMapper userMapper;
-
-    public AuthenticationController(AuthenticationService authService, UserMapper userMapper) {
-        this.authService = authService;
-        this.userMapper = userMapper;
-    }
-
-    @PostMapping("/register")
-    public UserResponseDto register(@RequestBody @Valid UserRequestDto requestDto) {
-        User user = authService.register(requestDto.getEmail(), requestDto.getPassword());
-        return userMapper.mapToDto(user);
-    }
-}
-```
-
+<a id="requires"></a>
 ## Recommended parameters to run on your platform:
 - OS: Windows / Linux / Mac OS
 - WebServer: TomCat - 9.0.54 + fix it with: Application context - "/"
@@ -86,6 +71,8 @@ public class AuthenticationController {
 - JDK: 11
 - IDE: prefer JetBrains IntelliJ IDEA or another
 
+
+<a id="configureDB"></a>
 ## Configure DataBase:
 - Please open the file src/main/resources/db.properties:
 ```
