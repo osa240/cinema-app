@@ -7,24 +7,26 @@ I also once again practiced creating an application from scratch following the S
 Improved my knowledge of Java Core.
 
 ## How to use?
-You are given the following endpoints:
-```
-POST: /register - all
-GET: /cinema-halls - user/admin
-POST: /cinema-halls - admin
-GET: /movies - user/admin
-POST: /movies - admin
-GET: /movie-sessions/available - user/admin
-GET: /movie-sessions/{id} - user/admin
-POST: /movie-sessions - admin
-PUT: /movie-sessions/{id} - admin
-DELETE: /movie-sessions/{id} - admin
-GET: /orders - user
-POST: /orders/complete - user
-PUT: /shopping-carts/movie-sessions - user
-GET: /shopping-carts/by-user - user
-GET: /users/by-email - admin
-```
+You are given the following endpoints and example to use:
+
+Method | Endpoint | Roles | URL params | Body (JSON)
+--- | --- | --- | --- | ---
+POST | /register | all | (no) | ```{"email":"email@email.ua", "password":"12345678", "repeatPassword":"12345678"}```
+GET | /cinema-halls | user/admin | (no) | (no body)
+POST | /cinema-halls | admin | (no) | ```{"capacity":20, "description":"null"}```
+GET | /movies | user/admin | (no) | (no body)
+POST | /movies | admin | (no) | ```{"title":"not null", "description":"null"}```
+GET | /movie-sessions/available | user/admin | ```?movieId={id}&date=dd.MM.yyyy``` | (no body)
+GET | /movie-sessions/{id} | user/admin | (no) | (no body)
+POST | /movie-sessions | admin | (no) | ```{"movieId":{positive number}, "cinemaHallId": {positive number}, "showTime": "dd.MM.yyyy HH:mm"}```
+PUT | /movie-sessions/{id} | admin | (no) | ```{"movieId":{positive number}, "cinemaHallId": {positive number}, "showTime": "dd.MM.yyyy HH:mm"}```
+DELETE | /movie-sessions/{id} | admin | (no) | (no body)
+GET | /orders | user | (no) | (no body)
+POST | /orders/complete | user | (no) | (no body)
+PUT | /shopping-carts/movie-sessions | user | ```?movieSessionId={id}``` | (no body)
+GET | /shopping-carts/by-user | user | (no) | (no body)
+GET | /users/by-email | admin | ```?email={email}``` | (no body)
+
 
 ## Online version (deployment on Heroku):
 1. To use the online version of the application, you can follow the [link](https://cinema-app-orlov.herokuapp.com/)
