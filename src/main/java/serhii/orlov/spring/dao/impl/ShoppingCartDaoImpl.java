@@ -25,7 +25,8 @@ public class ShoppingCartDaoImpl extends AbstractDao<ShoppingCart> implements Sh
                             + "left join fetch t.movieSession ms "
                             + "left join fetch ms.cinemaHall "
                             + "left join fetch ms.movie "
-                            + "JOIN FETCH sc.user.roles "
+                            + "left join fetch sc.user u "
+                            + "left join fetch u.roles "
                             + "WHERE sc.user = :user", ShoppingCart.class);
             getByUser.setParameter("user", user);
             return getByUser.getSingleResult();
