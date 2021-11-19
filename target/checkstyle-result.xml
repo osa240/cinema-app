@@ -1,167 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\config\AppConfig.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\config\AppConfig.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\config\SecurityConfig.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\config\SecurityConfig.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\config\SecurityInitializer.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\config\SecurityInitializer.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\config\WebAppInitializer.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\config\WebAppInitializer.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\config\WebConfig.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\config\WebConfig.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\AuthenticationController.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\AuthenticationController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\CinemaHallController.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\CinemaHallController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\CustomGlobalExceptionHandler.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\CustomGlobalExceptionHandler.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\MovieController.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\MovieController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\MovieSessionController.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\MovieSessionController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\OrderController.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\OrderController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\ShoppingCartController.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\ShoppingCartController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\controller\UserController.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\controller\UserController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\AbstractDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\AbstractDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\CinemaHallDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\CinemaHallDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\CinemaHallDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\CinemaHallDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\MovieDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\MovieDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\MovieSessionDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\MovieSessionDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\OrderDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\OrderDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\RoleDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\RoleDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\ShoppingCartDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\ShoppingCartDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\TicketDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\TicketDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\UserDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\impl\UserDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\MovieDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\MovieDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\MovieSessionDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\MovieSessionDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\OrderDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\OrderDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\RoleDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\RoleDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\ShoppingCartDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\ShoppingCartDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\TicketDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\TicketDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dao\UserDao.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dao\UserDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\request\CinemaHallRequestDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\request\CinemaHallRequestDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\request\MovieRequestDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\request\MovieRequestDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\request\MovieSessionRequestDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\request\MovieSessionRequestDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\request\UserRequestDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\request\UserRequestDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\response\CinemaHallResponseDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\response\CinemaHallResponseDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\response\MovieResponseDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\response\MovieResponseDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\response\MovieSessionResponseDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\response\MovieSessionResponseDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\response\OrderResponseDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\response\OrderResponseDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\response\ShoppingCartResponseDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\response\ShoppingCartResponseDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\dto\response\UserResponseDto.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\dto\response\UserResponseDto.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\exception\DataProcessingException.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\exception\DataProcessingException.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\lib\EmailValidator.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\lib\EmailValidator.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\lib\FieldsValueMatch.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\lib\FieldsValueMatch.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\lib\FieldsValueMatchValidator.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\lib\FieldsValueMatchValidator.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\lib\ValidEmail.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\lib\ValidEmail.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\CinemaHall.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\CinemaHall.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\Movie.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\Movie.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\MovieSession.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\MovieSession.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\Order.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\Order.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\Role.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\Role.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\RoleName.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\RoleName.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\ShoppingCart.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\ShoppingCart.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\Ticket.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\Ticket.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\model\User.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\model\User.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\security\CustomUserDetailsService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\security\CustomUserDetailsService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\AuthenticationService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\AuthenticationService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\CinemaHallService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\CinemaHallService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\AuthenticationServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\AuthenticationServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\CinemaHallServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\CinemaHallServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\MovieServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\MovieServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\MovieSessionServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\MovieSessionServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\OrderServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\OrderServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\RoleServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\RoleServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\ShoppingCartServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\ShoppingCartServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\impl\UserServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\impl\UserServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\CinemaHallMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\CinemaHallMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\MovieMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\MovieMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\MovieSessionMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\MovieSessionMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\OrderMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\OrderMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\RequestDtoMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\RequestDtoMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\ResponseDtoMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\ResponseDtoMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\ShoppingCartMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\ShoppingCartMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\UserMapper.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\mapper\UserMapper.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\MovieService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\MovieService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\MovieSessionService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\MovieSessionService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\OrderService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\OrderService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\RoleService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\RoleService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\ShoppingCartService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\ShoppingCartService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\service\UserService.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\service\UserService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\util\DataInitializer.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\util\DataInitializer.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\java\serhii\orlov\spring\util\DateTimePatternUtil.java">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\java\serhii\orlov\spring\util\DateTimePatternUtil.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\Roma\cinema-app\src\main\resources\db.properties">
+<file name="C:\Users\osa20\IdeaProjects\Mia\cinema-app\src\main\resources\db.properties">
 </file>
 </checkstyle>
