@@ -78,4 +78,3 @@ serhii\orlov\spring\model\Ticket.class
 serhii\orlov\spring\dto\response\OrderResponseDto.class
 serhii\orlov\spring\dao\impl\OrderDaoImpl.class
 serhii\orlov\spring\service\impl\RoleServiceImpl.class
-serhii\orlov\spring\util\DataInitializer.class
