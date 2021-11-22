@@ -1,4 +1,4 @@
-# Readme:
+# Cinema app:
 
 <a id="content"></a>
 #### Content:  
@@ -11,14 +11,14 @@
 
 <a id="about"></a>
 ## About the project:
-This is my application, built on the architectural style of programming RESTful application (API).
-So it works as a resource.
-In it, I used fairly modern and popular frameworks like Hibernate and Spring (Core + MVC + Security). 
-I also once again practiced creating an application from scratch following the SOLID principle. 
-Improved my knowledge of Java Core.
+This application built on the architectural style of programming RESTful application (API).
+In it, I used popular frameworks like Hibernate and Spring (Core + MVC + Security).
 
 <a id="how-to-use"></a>
 ## How to use?
+In my application, I have implied access to resources by roles using the Spring Security functionality. 
+By default, the user is registered with the "user" role.
+
 You are given the following endpoints and example to use:
 
 Method | Endpoint | Roles | URL params | Body (JSON)
@@ -43,15 +43,19 @@ GET | /users/by-email | admin | ```?email={email}``` | (no body)
 <a id="heroku"></a>
 ## Online version (deployment on Heroku):
 1. To use the online version of the application, you can follow the [link](https://cinema-app-orlov.herokuapp.com/)
-2. For testing, you can use the admin account with the next credentials: 
-   - email: admin@i.ua 
-   - password: admin123
-3. Or use Postmen with the following parameters:
+2. For testing, you can use: 
+   - "admin" account: 
+      * email: admin@i.ua 
+      * password: admin123
+   - "user" account:
+      * email: user@email.ua
+      * password: 12345678
+4. Or use Postmen with the following parameters:
    - Authentication - Basic
    - Insert email + password
    - use suffix of URL: "https://cinema-app-orlov.herokuapp.com"
    - use prefix of URL - my endpoint with correct HTTP method
-4. For details see my Controllers in the code (serhii/orlov/spring/controller) and use this as documentation
+5. For details see my Controllers in the code (serhii/orlov/spring/controller) and use this as documentation
 
 
 <a id="structure"></a>
@@ -59,7 +63,7 @@ GET | /users/by-email | admin | ```?email={email}``` | (no body)
 This project - emulation of Cinema shop service. if you use my application for a cinema, 
 you will get a lot of benefits: simple speedy code, no unnecessary dependencies, security, maintenance and development. 
 
-The API has the next structure:
+The DB has the next structure:
 ![CinemaAppStructure.png](CinemaAppStructure.png)
 
 
