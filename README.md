@@ -11,6 +11,14 @@
 
 <a id="about"></a>
 ## About the project:
+This application represents a service that allows users to buy cinema tickets. 
+The entire flow occurs in the following order: The user login (or register), 
+after that an empty shopping cart is created for him. He looks at what sessions 
+are available for the day of interest and adds these sessions to his cart. 
+After the basket is full, and he is ready to pay for the order, he forms a buy order. 
+After the order is formed, the cart is cleared, and he can repeat the entire flow. 
+
+
 This application built on the architectural style of programming RESTful application (API).
 In it, I used popular frameworks like Hibernate and Spring (Core + MVC + Security).
 
